@@ -130,7 +130,7 @@ const HomePage: React.FC = () => {
 
       {/* Footer */}
       <footer className="bg-secondary text-white text-center py-4 mt-8">
-        <p>&copy; {new Date().getFullYear()} ANStore. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} store. All rights reserved.</p>
       </footer>
     </div>
   );
